@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   
   # 
-  ### 🔥 Github state 🔥
+  ### 🔥 Github stats 🔥
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwooseung&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songwooseung&layout=compact&theme=tokyonight)
   
