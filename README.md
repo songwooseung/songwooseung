@@ -1,7 +1,7 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=Songwooseung&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
-  #### 🐮a.k.a. xiaoniu 
+  ### 🐮a.k.a. xiaoniu 
 
   # 
   ###  🔥 SNS list 🔥
