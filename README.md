@@ -2,13 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=Songwooseung&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
   
-  ### 🐮a.k.a. xiaoniu 
-
-  # 
-  ###  🔥 SNS list 🔥
   <a href="https://blog.naver.com/dntmd7320" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/x.iaoniu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
- 
+  # 
   ###  🔥 Tech Stack 🔥 
 
 
