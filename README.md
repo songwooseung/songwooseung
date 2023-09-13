@@ -4,7 +4,7 @@
 
   ###  🔥 SNS 🔥 
   <a href="https://blog.naver.com/dntmd7320" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=white"/></a>
-  <a href="https://www.instagram.com/xianlu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/xiaonlu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   
   ###  🔥 Tech Stack 🔥 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
