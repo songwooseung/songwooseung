@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=songwooseung&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
 
 
-
   ###  🔥 Tech Stack 🔥 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
