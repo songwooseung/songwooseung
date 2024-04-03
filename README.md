@@ -22,10 +22,6 @@
   ### 🔥 Github stats 🔥
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwooseung&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songwooseung&layout=compact&theme=tokyonight)
-  
-  ### 🔥 Backjoon 🔥 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntmd2061)](https://solved.ac.dntmd2061)
-
 </div>
 
 
