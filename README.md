@@ -5,7 +5,7 @@
 
 
 
-  ###  🔥 Tech Stack 🔥 
+  ###   Tech Stack  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   <br>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     
   # 
-  ### 🔥 Github stats 🔥
+  ###  Stats 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwooseung&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songwooseung&layout=compact&theme=tokyonight)
 </div>
