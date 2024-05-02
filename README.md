@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=62&fontAlignY=40&fontColor=#6E6E6E&color=#D8BFD8&text=Welcome%20To%20Wooseung`s%20Github!)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=220&color=#D8BFD8&fontSize=40&fontAlign=62&fontAlignY=40&fontColor=#6E6E6E&text=Welcome%20To%20Wooseung`s%20Github!)
 
 <div align="center">
 
