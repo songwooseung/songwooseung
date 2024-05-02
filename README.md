@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=Welcome To Wooseung`s Github! &fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text= Welcome To Wooseung`s Github!  &fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
 #
 
   ###   Tech Stack  
