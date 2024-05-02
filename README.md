@@ -3,9 +3,10 @@
 ## 👋 Hi ! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongwooseung)](https://hits.seeyoufarm.com)
 
 안녕하십니까. 저는 송우승이라고 합니다. 현재 대학교를 휴학하고 공기업에서 인턴 생활을 하고 있습니다.<br>
-공기업 관련해서 물어볼 것이 있다면 연락주세요.<br>
-<a href="mailto:dntmd2061@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dntmd2061@gmail.com"/></a>
+
 <a href="https://www.instagram.com/xiaonlu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/xiaonlu"/></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongwooseung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 
 
 ## 📌 Experiences 
