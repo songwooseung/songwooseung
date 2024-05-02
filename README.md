@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Waving)
 
 <div align="center">
   
 #
-  ![header](https://capsule-render.vercel.app/api?type=Waving)
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=hellow%world! &fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
   
