@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=62&fontAlignY=40&text=Welcome%20To%20Wooseung`s%20Github!&fontColor=2E2E2E&color=9370DB)
 
 
-## Hello 🤔
+## Experiences 
+<li>
+  한국전력공사(Kepco) 부산울산본부 ICT 인턴 2024.02 ~ ing 
+</li>
 <div align="center">
 
 
