@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=52&fontAlignY=40&text=Welcome%20To%20Wooseung`s%20Github!&fontColor=2E2E2E&color=9370DB)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongwooseung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-
 ## 👋 Hi ! 
 안녕하십니까. 저는 송우승이라고 합니다. 현재 대학교를 휴학하고 공기업에서 인턴 생활을 하고 있습니다.<br>
 
