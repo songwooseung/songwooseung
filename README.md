@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=60&color=000000&text=Welcome%To%Wooseung`s%Github!)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=60&color=000000&text=Welcome To Wooseung`s%Github!)
 
 <div align="center">
   
 #
-  
+<!--
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&text=hellow%world! &fontColor=FFFFFF&animation=fadeIn&fontAlignY=55)
-  
+--> 
 
   ###   Tech Stack  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
