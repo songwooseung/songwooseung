@@ -3,7 +3,7 @@
 
 ## Experiences 
 <li>
-  한국전력공사(Kepco) 부산울산본부 ICT 인턴 2024.02 ~ ing 
+  한국전력공사(Kepco) 부산울산본부 ICT 인턴 / 2024.02 ~ ing 
 </li>
 <div align="center">
 
