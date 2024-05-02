@@ -2,7 +2,7 @@
 
 ## 👋 Hi ! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongwooseung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> 
 저는 송우승입니다. 현재 대학교 휴학 후 공기업에서 인턴 생활을 하고 있습니다.<br>
-제 목표는 [GitHub Pages](https://www.airport.kr/co/ko/index.do) 입니다. 
+제 최종 목표는 [인천국제공항공사](https://www.airport.kr/co/ko/index.do) / [IBK기업은행](https://www.ibk.co.kr/)입니다. 
 
 ## 📌 Experiences 
 - **한국전력공사(KEPCO) 부산울산본부 ICT 인턴 / 2024.02 ~ ing**
