@@ -4,7 +4,8 @@
 - **저는 현재 대학교 휴학 후 공기업에서 인턴 생활을 하고 있습니다.** <br>
 
 ## 🥅 Goal 
-- **✈️[ICN](https://www.airport.kr/co/ko/index.do) & 🏦[IBK](https://www.ibk.co.kr/)** <br>
+- **✈️[ICN](https://www.airport.kr/co/ko/index.do)** <br>
+- **🏦[IBK](https://www.ibk.co.kr/)** <br>
 
 ## 📌 Experiences 
 - **한국전력공사(KEPCO) 부산울산본부 ICT 인턴 / 2024.02 ~ ing**
