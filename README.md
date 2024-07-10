@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=220&fontSize=40&fontAlign=52&fontAlignY=40&text=Welcome%20To%20Wooseung`s%20Github!&fontColor=2E2E2E&color=9370DB)
 
 ## 👋 Hi ! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongwooseung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> 
-- **저는 현재 대학교 휴학 후 공기업에서 인턴 생활을 하고 있습니다.** <br>
+- **열심히 살려는 척 하는 중입니다.** <br>
 
 ## 🥅 Goal 
 - **✈️[ICN](https://www.airport.kr/co/ko/index.do)** <br>
